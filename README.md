@@ -3,4 +3,4 @@
 #INSTALLATION
 run python install -r requirements
 
-![SS](https://user-images.githubusercontent.com/109638709/179929551-2cf85fbb-9e53-4182-978e-c0203ec0c54a.PNG)
+![SS](https://user-images.githubusercontent.com/109638709/180121106-f969cfe5-dc13-4f67-b163-67ecf42a2feb.PNG)
